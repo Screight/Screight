@@ -3,5 +3,5 @@
 - :smiley_cat: I’m currently learning mainly C++.
 - :duck: I’m looking to collaborate on any kind of project, my main goal is to get a solid base at programming.
 - :relaxed: Contact me at: 
-                      seguer.matias@gmail.com
+                      screight.kolthem@gmail.com
 
